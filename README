@@ -1,0 +1,12 @@
+dnsexit.com provides a free dynamic DNS service for your domains.
+
+This simple script updates their records with your IP address.
+
+Note:
+dnsexit.com wont let you update more frequently than 8 minutes. 
+Please choose an update rate that's slower.
+
+Hope you find this useful.
+
+--Darshan
+
